@@ -1,2 +1,2 @@
-# imdb
-Search for movies
+# Instagram clone
+
